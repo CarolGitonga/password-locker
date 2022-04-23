@@ -9,6 +9,7 @@
 + [Installation Requirement](#Installation)
 + [Behaviour Driven Development](#BDD)
 + [Technology Used](#technology-used)
++ [Known Bugs](#known-bugs)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
@@ -64,6 +65,9 @@ The user would like to.... :
 
 ## Technology Used
 * python3.9
+
+## Known Bugs
+* There are no known bugs currently.
 
 [Go Back to the top](#password-locker)
 
